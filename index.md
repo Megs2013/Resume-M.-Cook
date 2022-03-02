@@ -10,10 +10,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+##Profile
+I am a recent communications graduate with a certificate in professional writing. After years of work as a Medical Lab Technician, I am looking to bring my skills, experience, and knowledge acquired to a new career. Self-motivated, responsible, and hardworking, I am seeking a company where I may further grow while also learning and acquiring new skills and knowledge. 
 
-# Header 1
-## Header 2
-### Header 3
+##Education
+
+##Work Experience
+
 
 - Bulleted
 - List
